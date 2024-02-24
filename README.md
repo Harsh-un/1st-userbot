@@ -1,6 +1,6 @@
-<h1 align="center"><b>тнє нєℓℓвσт</b></h1>
+<h1 align="center"><b>тнє ᴜɴ вσт</b></h1>
 
-<p align="center"><img src="https://te.legra.ph/file/d64669dd01c40923f1da4.jpg" alt="The HellBot"></p>
+<p align="center"><img src="https://telegra.ph/file/27b1424eedf2c80ac1bc3.jpg" alt="The un bot"></p>
 
 <h2 align="center">🚀 Telegram Bot on Steroids!</h3>
 
@@ -21,16 +21,16 @@
 [![Documentation](https://img.shields.io/badge/Documentations-docs.hellbot.tech-white?&style=social&logo=gitbook)](https://the-hellbot.gitbook.io/)
 
 [![Telegram Group](https://img.shields.io/badge/Telegram-Group-white?&style=social&logo=telegram)](https://telegram.dog/hellbot_chat)
-[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-white?&style=social&logo=telegram)](https://telegram.dog/its_hellbot)
+[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-white?&style=social&logo=telegram)](https://t.me/un_bots)
 
 [![Subscribers](https://img.shields.io/youtube/channel/subscribers/UC7Jr0FnRApx5nJASUfOjqJQ?style=social)](https://youtube.com/channel/UC7Jr0FnRApx5nJASUfOjqJQ)
 [![Views](https://img.shields.io/youtube/views/leMyoT-qDH4?label=Tutorial+•+Heroku+•&style=social)](https://youtu.be/leMyoT-qDH4)
 
 ---
 
-## Deploying HellBot on Heroku
+## Deploying ᴜɴ ʙᴏᴛ on Heroku
 
-Follow these 4 straightforward steps to deploy HellBot on Heroku:
+Follow these 4 straightforward steps to deploy Un Bot on Heroku:
 
 1. **Fork & Star this Repo:**
     > Begin by [forking](https://github.com/The-Hellbot/Hellbot/fork) and [starring](https://github.com/The-Hellbot/Hellbot/) this repository on GitHub.
@@ -44,7 +44,7 @@ Follow these 4 straightforward steps to deploy HellBot on Heroku:
 4. **Fill Required Variables:**
    > On the deployment page, you'll find necessary variables to be filled out.
 
-That's it! You've successfully deployed HellBot on Heroku. Now scale dynos and start the bot!
+That's it! You've successfully deployed Un Bot on Heroku. Now scale dynos and start the bot!
 
 <p align="center">
     <a href="https://heroku.com/deploy"><img src="https://img.shields.io/badge/HellBot-Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku"/></a>
@@ -52,7 +52,7 @@ That's it! You've successfully deployed HellBot on Heroku. Now scale dynos and s
 
 ---
 
-## Deploying HellBot on Linux
+## Deploying Un Bot on Linux
 
 Hellbot can be deployed on any Linux VPS and terminal.
 
@@ -139,7 +139,7 @@ Should you require assistance, kindly engage with our support group for communit
 
 > Thank you for choosing our bot and for your understanding and adherence.
 
-~ Team HellBot ❤️
+~ Team Un Bot ❤️
 
 ---
 
